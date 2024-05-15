@@ -7,7 +7,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="input-group mb-3">
-                                <input type="text" class="form-control" placeholder="Search employee"
+                                <input type="text" class="form-control" placeholder="Search Name/Designation/Department"
                                     id="search">
                                 <div class="input-group-prepend">
                                     <span class="input-group-text" id="basic-addon1">
